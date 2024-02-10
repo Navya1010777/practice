@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Apples",
+        "price": 2.99,
+        "description": "Fresh and organic red apples",
+        "quantity": 10,
+        "category": "Groceries",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "LED Smart TV",
+        "price": 599.99,
+        "description": "55-inch 4K Ultra HD Smart LED TV",
+        "quantity": 5,
+        "category": "Electronics",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pasta",
+        "price": 1.49,
+        "description": "Spaghetti pasta, 16 oz",
+        "quantity": 20,
+        "category": "Groceries",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wireless Bluetooth Headphones",
+        "price": 49.99,
+        "description": "Over-ear wireless headphones with noise cancellation",
+        "quantity": 8,
+        "category": "Electronics",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Milk",
+        "price": 2.29,
+        "description": "Fresh whole milk, 1 gallon",
+        "quantity": 15,
+        "category": "Groceries",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Laptop Computer",
+        "price": 999.99,
+        "description": "15-inch laptop with Intel Core i7 processor",
+        "quantity": 7,
+        "category": "Electronics",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bananas",
+        "price": 0.49,
+        "description": "Ripe bananas, per pound",
+        "quantity": 30,
+        "category": "Groceries",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Smartphone",
+        "price": 399.99,
+        "description": "5G smartphone with dual cameras",
+        "quantity": 12,
+        "category": "Electronics",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Canned Soup",
+        "price": 1.99,
+        "description": "Chicken noodle soup, 14 oz",
+        "quantity": 25,
+        "category": "Groceries",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tablet",
+        "price": 299.99,
+        "description": "10-inch tablet with HD display",
+        "quantity": 10,
+        "category": "Electronics",
+        "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
+    }
+]
