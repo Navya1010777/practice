@@ -12,7 +12,7 @@
         "id": 2,
         "name": "LED Smart TV",
         "price": 599.99,
-        "description": "55-inch 4K Ultra HD Smart LED TV",
+        "description": "55-inch 4K Ultra HD Smart ",
         "quantity": 5,
         "category": "Electronics",
         "url" : "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/cube_icon_kjijxo.jpg"
